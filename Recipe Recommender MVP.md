@@ -1,4 +1,4 @@
-## Recipe Recommender
+## Recipe Recommender MVP
 
 Goal
 The goal of this project is to create a recipe recommendation system based on a recipe that a user is trying to make.
