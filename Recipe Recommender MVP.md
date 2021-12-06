@@ -11,7 +11,7 @@ For the MVP, I started off with a subset of the data which has recipes of desser
 
 Here's a logical grouping of the topics identified from the dessert recipe subset:
 
-![Topic modeling] (images/Topics for Dessert recipes.png)
+![Topic modeling] (images/Topics_for_Dessert_recipes.png)
 
 
 Next steps
