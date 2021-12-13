@@ -21,11 +21,17 @@ Below is a interactive visual of the ingredient distribution in each topic, the 
 
 ### Tools
 Python (pandas, numpy)
+
 Regex
+
 NLTK
-Scikitlearn
+
+Scikit Learn
+
 Gensim
+
 pyLDAvis
+
 Cosine Similarity
 
 
