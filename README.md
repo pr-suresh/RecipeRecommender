@@ -9,7 +9,7 @@ The [dataset](https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-inter
 ### Algorithms
 
 NLP
-While pre-processing the data, I removed all digits and punctuation, astop words, including some custom stop words (fresh, chopped, frozen etc). I also created a custom tokenizer to merge the ingredients(rather than creating n-grams) like Olive oil into Olive_oil, and to lemmatize all other tokens. I tried both CountVectorizer and TF-IDF Vectorizer with NMF and LDA.
+While pre-processing the data, I removed all digits and punctuation, as stop words, including some custom stop words (fresh, chopped, frozen etc). I also created a custom tokenizer to merge the ingredients(rather than creating n-grams) like Olive oil into Olive_oil, and to lemmatize all other tokens. I tried both CountVectorizer and TF-IDF Vectorizer with NMF and LDA.
 
 ### Topic Modeling
 LDA is used for topic modeling and the final model has 20 topics.
